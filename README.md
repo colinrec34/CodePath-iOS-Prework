@@ -28,6 +28,24 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+### Favorite Apps
+Reddit
+- Infinite Scrolling
+- Separate Panes
+- Swipe to Go Back
+Fitness
+- Syncronization with Apple Watch
+- Automatic Tracking of Progress
+- Goal Setting
+
+Capital One
+- FaceID login
+- Separate Info Pane on Homescreen
+
+### App Idea
+Lifting App:
+This app synchronizes with the apple watch to track your lifting. This would track sets, reps, and count out rest time for you. It would also show gifs of poses for each exercise. It would also let you build custom workouts yourself. It will also let you share your workouts with friends, and show your progress to friends.
+
 - Change the font of the labels, make them prettier!
 - Improve the UI by using different fonts/colors/background
 - Feel free to play around with other elements, such as image views, textfields, etc.
